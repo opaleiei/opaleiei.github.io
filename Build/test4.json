@@ -1,13 +1,13 @@
 {
 "companyName": "DefaultCompany",
 "productName": "gravity run",
-"dataUrl": "test3.data.unityweb",
-"wasmCodeUrl": "test3.wasm.code.unityweb",
-"wasmFrameworkUrl": "test3.wasm.framework.unityweb",
+"dataUrl": "test4.data.unityweb",
+"wasmCodeUrl": "test4.wasm.code.unityweb",
+"wasmFrameworkUrl": "test4.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "test3.jpg",
+"backgroundUrl": "test4.jpg",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"}
